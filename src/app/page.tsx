@@ -1,8 +1,7 @@
 import React from "react";
+import './globals.css'
 
-const page =() => {
+export default function Page () {
 
-  return<div className = "bg-black"> This Page</div>;
+  return<h1> IH Syed</h1>;
 };
-
-export default page

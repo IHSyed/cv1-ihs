@@ -9,6 +9,7 @@ module.exports = {
   ],
 
   theme: {
+    colors: {
    
       black: "#1919A19",
       yellow: "#FTF734",
@@ -30,5 +31,6 @@ module.exports = {
   },
 
   plugins: [],
+},
 }
   
