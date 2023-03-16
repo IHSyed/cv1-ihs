@@ -4,7 +4,7 @@
 
 @layer components {
   .h1 {
-    @apply text-yellow text-4xl sm: text-6xl;
+    @apply text-yellow ;
   }
 
   .h2 {
